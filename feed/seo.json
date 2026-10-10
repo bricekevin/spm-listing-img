@@ -1,0 +1,338 @@
+[
+ {
+  "sku": "SPM-FB",
+  "name": "Live Football Scoreboard Desk Display",
+  "keyphrase": "Live Football Scoreboard",
+  "description": "Live Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-DAL",
+  "name": "Dallas Football Scoreboard Desk Display",
+  "keyphrase": "Dallas Football Scoreboard",
+  "description": "Dallas Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-KC",
+  "name": "Kansas City Football Scoreboard Desk Display",
+  "keyphrase": "Kansas City Football Scoreboard",
+  "description": "Kansas City Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-PHI",
+  "name": "Philadelphia Football Scoreboard Desk Display",
+  "keyphrase": "Philadelphia Football Scoreboard",
+  "description": "Philadelphia Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-GB",
+  "name": "Green Bay Football Scoreboard Desk Display",
+  "keyphrase": "Green Bay Football Scoreboard",
+  "description": "Green Bay Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-SF",
+  "name": "San Francisco Football Scoreboard Desk Display",
+  "keyphrase": "San Francisco Football Scoreboard",
+  "description": "San Francisco Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-PIT",
+  "name": "Pittsburgh Football Scoreboard Desk Display",
+  "keyphrase": "Pittsburgh Football Scoreboard",
+  "description": "Pittsburgh Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-NE",
+  "name": "New England Football Scoreboard Desk Display",
+  "keyphrase": "New England Football Scoreboard",
+  "description": "New England Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-BUF",
+  "name": "Buffalo Football Scoreboard Desk Display",
+  "keyphrase": "Buffalo Football Scoreboard",
+  "description": "Buffalo Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-DET",
+  "name": "Detroit Football Scoreboard Desk Display",
+  "keyphrase": "Detroit Football Scoreboard",
+  "description": "Detroit Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-FB-CHI",
+  "name": "Chicago Football Scoreboard Desk Display",
+  "keyphrase": "Chicago Football Scoreboard",
+  "description": "Chicago Football Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK",
+  "name": "Live Basketball Scoreboard Desk Display",
+  "keyphrase": "Live Basketball Scoreboard",
+  "description": "Live Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-LAL",
+  "name": "Los Angeles Basketball Scoreboard Desk Display",
+  "keyphrase": "Los Angeles Basketball Scoreboard",
+  "description": "Los Angeles Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-GS",
+  "name": "San Francisco Bay Basketball Scoreboard Desk Display",
+  "keyphrase": "San Francisco Bay Basketball Scoreboard",
+  "description": "San Francisco Bay Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-BOS",
+  "name": "Boston Basketball Scoreboard Desk Display",
+  "keyphrase": "Boston Basketball Scoreboard",
+  "description": "Boston Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-NY",
+  "name": "New York Basketball Scoreboard Desk Display",
+  "keyphrase": "New York Basketball Scoreboard",
+  "description": "New York Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-CHI",
+  "name": "Chicago Basketball Scoreboard Desk Display",
+  "keyphrase": "Chicago Basketball Scoreboard",
+  "description": "Chicago Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-MIA",
+  "name": "Miami Basketball Scoreboard Desk Display",
+  "keyphrase": "Miami Basketball Scoreboard",
+  "description": "Miami Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-DAL",
+  "name": "Dallas Basketball Scoreboard Desk Display",
+  "keyphrase": "Dallas Basketball Scoreboard",
+  "description": "Dallas Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-SA",
+  "name": "San Antonio Basketball Scoreboard Desk Display",
+  "keyphrase": "San Antonio Basketball Scoreboard",
+  "description": "San Antonio Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-PHI",
+  "name": "Philadelphia Basketball Scoreboard Desk Display",
+  "keyphrase": "Philadelphia Basketball Scoreboard",
+  "description": "Philadelphia Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BK-DEN",
+  "name": "Denver Basketball Scoreboard Desk Display",
+  "keyphrase": "Denver Basketball Scoreboard",
+  "description": "Denver Basketball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB",
+  "name": "Live Baseball Scoreboard Desk Display",
+  "keyphrase": "Live Baseball Scoreboard",
+  "description": "Live Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-NYY",
+  "name": "New York Baseball Scoreboard Desk Display",
+  "keyphrase": "New York Baseball Scoreboard",
+  "description": "New York Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-LAD",
+  "name": "Los Angeles Baseball Scoreboard Desk Display",
+  "keyphrase": "Los Angeles Baseball Scoreboard",
+  "description": "Los Angeles Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-BOS",
+  "name": "Boston Baseball Scoreboard Desk Display",
+  "keyphrase": "Boston Baseball Scoreboard",
+  "description": "Boston Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-CHC",
+  "name": "Chicago Baseball Scoreboard Desk Display",
+  "keyphrase": "Chicago Baseball Scoreboard",
+  "description": "Chicago Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-ATL",
+  "name": "Atlanta Baseball Scoreboard Desk Display",
+  "keyphrase": "Atlanta Baseball Scoreboard",
+  "description": "Atlanta Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-PHI",
+  "name": "Philadelphia Baseball Scoreboard Desk Display",
+  "keyphrase": "Philadelphia Baseball Scoreboard",
+  "description": "Philadelphia Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-HOU",
+  "name": "Houston Baseball Scoreboard Desk Display",
+  "keyphrase": "Houston Baseball Scoreboard",
+  "description": "Houston Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-STL",
+  "name": "St. Louis Baseball Scoreboard Desk Display",
+  "keyphrase": "St. Louis Baseball Scoreboard",
+  "description": "St. Louis Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-SF",
+  "name": "San Francisco Baseball Scoreboard Desk Display",
+  "keyphrase": "San Francisco Baseball Scoreboard",
+  "description": "San Francisco Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-BB-SD",
+  "name": "San Diego Baseball Scoreboard Desk Display",
+  "keyphrase": "San Diego Baseball Scoreboard",
+  "description": "San Diego Baseball Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK",
+  "name": "Live Hockey Scoreboard Desk Display",
+  "keyphrase": "Live Hockey Scoreboard",
+  "description": "Live Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-TOR",
+  "name": "Toronto Hockey Scoreboard Desk Display",
+  "keyphrase": "Toronto Hockey Scoreboard",
+  "description": "Toronto Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-MTL",
+  "name": "Montreal Hockey Scoreboard Desk Display",
+  "keyphrase": "Montreal Hockey Scoreboard",
+  "description": "Montreal Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-BOS",
+  "name": "Boston Hockey Scoreboard Desk Display",
+  "keyphrase": "Boston Hockey Scoreboard",
+  "description": "Boston Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-NYR",
+  "name": "New York Hockey Scoreboard Desk Display",
+  "keyphrase": "New York Hockey Scoreboard",
+  "description": "New York Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-CHI",
+  "name": "Chicago Hockey Scoreboard Desk Display",
+  "keyphrase": "Chicago Hockey Scoreboard",
+  "description": "Chicago Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-DET",
+  "name": "Detroit Hockey Scoreboard Desk Display",
+  "keyphrase": "Detroit Hockey Scoreboard",
+  "description": "Detroit Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-PIT",
+  "name": "Pittsburgh Hockey Scoreboard Desk Display",
+  "keyphrase": "Pittsburgh Hockey Scoreboard",
+  "description": "Pittsburgh Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-EDM",
+  "name": "Edmonton Hockey Scoreboard Desk Display",
+  "keyphrase": "Edmonton Hockey Scoreboard",
+  "description": "Edmonton Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-VGK",
+  "name": "Las Vegas Hockey Scoreboard Desk Display",
+  "keyphrase": "Las Vegas Hockey Scoreboard",
+  "description": "Las Vegas Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-HK-COL",
+  "name": "Colorado Hockey Scoreboard Desk Display",
+  "keyphrase": "Colorado Hockey Scoreboard",
+  "description": "Colorado Hockey Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC",
+  "name": "Live Soccer Scoreboard Desk Display",
+  "keyphrase": "Live Soccer Scoreboard",
+  "description": "Live Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-ARS",
+  "name": "North London Soccer Scoreboard Desk Display",
+  "keyphrase": "North London Soccer Scoreboard",
+  "description": "North London Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-LIV",
+  "name": "Liverpool Soccer Scoreboard Desk Display",
+  "keyphrase": "Liverpool Soccer Scoreboard",
+  "description": "Liverpool Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-MAN",
+  "name": "Manchester Soccer Scoreboard Desk Display",
+  "keyphrase": "Manchester Soccer Scoreboard",
+  "description": "Manchester Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-MNC",
+  "name": "Manchester Soccer Scoreboard Desk Display",
+  "keyphrase": "Manchester Soccer Scoreboard",
+  "description": "Manchester Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-CHE",
+  "name": "West London Soccer Scoreboard Desk Display",
+  "keyphrase": "West London Soccer Scoreboard",
+  "description": "West London Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-TOT",
+  "name": "North London Soccer Scoreboard Desk Display",
+  "keyphrase": "North London Soccer Scoreboard",
+  "description": "North London Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-RMA",
+  "name": "Madrid Soccer Scoreboard Desk Display",
+  "keyphrase": "Madrid Soccer Scoreboard",
+  "description": "Madrid Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-BAR",
+  "name": "Barcelona Soccer Scoreboard Desk Display",
+  "keyphrase": "Barcelona Soccer Scoreboard",
+  "description": "Barcelona Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-MIA",
+  "name": "Miami Soccer Scoreboard Desk Display",
+  "keyphrase": "Miami Soccer Scoreboard",
+  "description": "Miami Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-SC-LAFC",
+  "name": "Los Angeles Soccer Scoreboard Desk Display",
+  "keyphrase": "Los Angeles Soccer Scoreboard",
+  "description": "Los Angeles Soccer Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ },
+ {
+  "sku": "SPM-ALL",
+  "name": "Live Sports Scoreboard Desk Display",
+  "keyphrase": "Live Sports Scoreboard",
+  "description": "Live Sports Scoreboard for your desk: record, standings, next game and the live score for your team. One-minute setup, no app."
+ }
+]
