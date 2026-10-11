@@ -1,0 +1,98 @@
+<style>
+/* Square corners and black accents, to match the rest of encinitas3d.com. */
+.spm{--ink:#16161a;--dim:#5d5d68;--accent:#111;--line:#dcdcdc;--wash:#f5f5f5;
+  font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+  color:var(--ink);max-width:760px;margin:0 auto;padding:20px 16px 48px}
+.spm h1{font-size:30px;line-height:1.15;margin:0 0 6px}
+.spm h2{font-size:21px;margin:38px 0 10px;color:#111}
+.spm p{margin:0 0 12px}.spm .lead{color:var(--dim);font-size:17px}.spm a{color:#111}
+.spm ol.steps{list-style:none;padding:0;margin:18px 0;counter-reset:s}
+.spm ol.steps li{counter-increment:s;position:relative;padding:13px 14px 13px 56px;
+  border:1px solid var(--line);margin-bottom:10px;background:#fff}
+.spm ol.steps li:before{content:counter(s);position:absolute;left:14px;top:13px;width:28px;
+  height:28px;background:#111;color:#fff;font-weight:700;text-align:center;line-height:28px}
+.spm code{background:var(--wash);padding:1px 6px;font-size:.92em}
+.spm table{border-collapse:collapse;width:100%;margin:8px 0 12px}
+.spm td,.spm th{border-bottom:1px solid var(--line);padding:9px 8px;text-align:left;vertical-align:top}
+.spm th{width:96px;white-space:nowrap}
+.spm details{border:1px solid var(--line);padding:11px 14px;margin-bottom:8px;background:#fff}
+.spm summary{font-weight:650;cursor:pointer}
+.spm details p{margin:8px 0 2px;color:var(--dim)}
+.spm .note{background:var(--wash);border-left:3px solid #111;padding:12px 14px}
+.spm .fine{color:var(--dim);font-size:13px;margin-top:34px}
+.spm img{max-width:100%;width:100%;border-radius:0;display:block}
+</style>
+<main class="spm">
+    <p class="lead">About a minute, on your phone. No app, no account, no subscription.</p>
+
+  <ol class="steps">
+    <li><b>Plug it in.</b> Use the USB-C cable in the box and any phone charger. The screen
+      shows a code and a Wi-Fi name that starts with <code>Sports Meter-</code>.</li>
+    <li><b>Scan the code</b> with your phone camera, or open Wi-Fi settings and join the
+      <code>Sports Meter-XXXXXX</code> network. The setup page opens by itself. If it does
+      not, open a browser and go to <code>192.168.4.1</code>.</li>
+    <li><b>Pick your teams.</b> Choose a league, then a team. Add up to six, from any mix of
+      football, basketball, baseball, hockey and soccer, pro or college.</li>
+    <li><b>Choose your home Wi-Fi</b> and type its password, then tap <b>Save</b>. The network
+      must be 2.4&nbsp;GHz (most home routers are both; guest and 5&nbsp;GHz-only networks will
+      not work).</li>
+    <li><b>Done.</b> The device restarts and your first team appears in about 30 seconds.</li>
+  </ol>
+
+  <p><img src="https://bricekevin.github.io/spm-listing-img/all-sports/logos/e-main.jpg" alt="Sports Meter showing a game day screen"></p>
+  <p>New here? See <a href="/sports-meter/">what Sports Meter does</a>.</p>
+
+  <h2>What the screen shows</h2>
+  <table>
+    <tr><th>All week</th><td>Season record, place in the standings, and the next game in your
+      local time.</td></tr>
+    <tr><th>Game day</th><td>The next-game card lights up in your team's colors.</td></tr>
+    <tr><th>During a game</th><td>Live score with the clock and period. Football adds down and
+      distance; baseball adds the count, outs and runners.</td></tr>
+    <tr><th>After</th><td>The final score, then back to the record and the next game.</td></tr>
+  </table>
+  <p><img src="https://bricekevin.github.io/spm-listing-img/all-sports/logos/11.jpg" alt="Six Sports Meters showing different teams and sports"></p>
+  <p>With several teams, they take turns on screen. A live game takes over until it ends.</p>
+
+  <h2>Buttons</h2>
+  <table>
+    <tr><th>A (left)</th><td>Tap: next team. Hold: status screen (Wi-Fi, version, last update).</td></tr>
+    <tr><th>B (middle)</th><td>Tap: brightness. Hold 2 seconds: change teams.</td></tr>
+    <tr><th>C (right)</th><td>Tap: screen off / on. Hold 5 seconds, and keep holding through the
+      red screen: erase everything and start setup again.</td></tr>
+  </table>
+
+  <h2>Change teams later</h2>
+  <div class="note">Hold <b>B</b> for 2 seconds. The screen shows a web address. Open it on a
+    phone or computer that is on the <b>same Wi-Fi</b> as the Sports Meter, pick your teams and
+    save. Your Wi-Fi settings are kept.</div>
+
+  <h2>If something is not right</h2>
+  <details><summary>The setup page did not open</summary>
+    <p>Stay joined to the <code>Sports Meter-XXXXXX</code> network, open a browser and type
+      <code>192.168.4.1</code>. If your phone says the network has no internet, choose to stay
+      connected.</p></details>
+  <details><summary>It says "WiFi connect failed"</summary>
+    <p>The password was mistyped or the network is 5&nbsp;GHz only. Hold <b>C</b> for 5 seconds
+      (keep holding through the red screen) and run setup again.</p></details>
+  <details><summary>I picked the wrong team</summary>
+    <p>Hold <b>B</b> for 2 seconds and use the address on the screen. Nothing else is
+      changed.</p></details>
+  <details><summary>The score is a little behind my TV</summary>
+    <p>Scores usually trail the live action by under a minute. Streams are often further
+      behind than that.</p></details>
+  <details><summary>New Wi-Fi, moving house, or giving it away</summary>
+    <p>Hold <b>C</b> for 5 seconds and keep holding through the red screen. That erases the
+      Wi-Fi and teams and returns the device to setup.</p></details>
+  <details><summary>The change-teams address will not load</summary>
+    <p>The phone must be on the same Wi-Fi network as the device, not on mobile data or a
+      guest network.</p></details>
+
+  <h2>Still stuck?</h2>
+  <p>Email <b>info@encinitas3d.com</b> with a photo of the screen. If it arrived faulty, we
+    will make it right.</p>
+
+  <p class="fine">Sports Meter is an independent product made by Encinitas 3D. It is not
+    affiliated with, endorsed by, sponsored by or licensed by any league, team, conference or
+    broadcaster. League and team names remain the property of their owners.</p>
+</main>
