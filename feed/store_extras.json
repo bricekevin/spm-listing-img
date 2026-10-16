@@ -1,0 +1,977 @@
+[
+{
+"id": 12025,
+"name": "Live Sports Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/all-sports.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+9975,
+10464,
+11510
+]
+},
+{
+"id": 11980,
+"name": "Los Angeles Soccer Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-lafc.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+10556,
+10020,
+12025
+]
+},
+{
+"id": 11933,
+"name": "Miami Soccer Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-mia.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+10266,
+12025,
+11980
+]
+},
+{
+"id": 11886,
+"name": "Barcelona Soccer Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-bar.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+12025,
+11980,
+11933
+]
+},
+{
+"id": 11831,
+"name": "Madrid Soccer Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-rma.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+12025,
+11980,
+11933
+]
+},
+{
+"id": 11790,
+"name": "North London Soccer Scoreboard Desk Display (White and Navy)",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-tot.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+12025,
+11980,
+11933
+]
+},
+{
+"id": 11741,
+"name": "West London Soccer Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-che.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+12025,
+11980,
+11933
+]
+},
+{
+"id": 11694,
+"name": "Manchester Soccer Scoreboard Desk Display (Sky Blue)",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-mnc.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+12025,
+11980,
+11933
+]
+},
+{
+"id": 11649,
+"name": "Manchester Soccer Scoreboard Desk Display (Red and Black)",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-man.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+12025,
+11980,
+11933
+]
+},
+{
+"id": 11598,
+"name": "Liverpool Soccer Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-liv.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+12025,
+11980,
+11933
+]
+},
+{
+"id": 11557,
+"name": "North London Soccer Scoreboard Desk Display (Red and White)",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer-ars.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+11510,
+12025,
+11980,
+11933
+]
+},
+{
+"id": 11510,
+"name": "Live Soccer Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/soccer.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+12025,
+9512,
+9975,
+10464
+]
+},
+{
+"id": 11461,
+"name": "Colorado Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-col.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+12025,
+11416,
+11365
+]
+},
+{
+"id": 11416,
+"name": "Las Vegas Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-vgk.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+12025,
+11461,
+11365
+]
+},
+{
+"id": 11365,
+"name": "Edmonton Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-edm.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+12025,
+11461,
+11416
+]
+},
+{
+"id": 11322,
+"name": "Pittsburgh Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-pit.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+9734,
+12025,
+11461
+]
+},
+{
+"id": 11237,
+"name": "Detroit Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-det.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+9877,
+12025,
+11461
+]
+},
+{
+"id": 11190,
+"name": "Chicago Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-chi.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+10638,
+10235,
+12025
+]
+},
+{
+"id": 11143,
+"name": "New York Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-nyr.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+10511,
+10159,
+12025
+]
+},
+{
+"id": 11092,
+"name": "Boston Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-bos.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+10601,
+10112,
+12025
+]
+},
+{
+"id": 11045,
+"name": "Montreal Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-mtl.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+12025,
+11461,
+11416
+]
+},
+{
+"id": 10996,
+"name": "Toronto Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey-tor.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10953,
+12025,
+11461,
+11416
+]
+},
+{
+"id": 10953,
+"name": "Live Hockey Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/hockey.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+12025,
+9512,
+9975,
+10464
+]
+},
+{
+"id": 10912,
+"name": "San Diego Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-sd.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+12025,
+10863,
+10818
+]
+},
+{
+"id": 10863,
+"name": "San Francisco Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-sf.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+10063,
+9691,
+12025
+]
+},
+{
+"id": 10818,
+"name": "St. Louis Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-stl.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+12025,
+10912,
+10863
+]
+},
+{
+"id": 10773,
+"name": "Houston Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-hou.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+12025,
+10912,
+10863
+]
+},
+{
+"id": 10724,
+"name": "Philadelphia Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-phi.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+10388,
+9595,
+12025
+]
+},
+{
+"id": 10679,
+"name": "Atlanta Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-atl.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+12025,
+10912,
+10863
+]
+},
+{
+"id": 10638,
+"name": "Chicago Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-chc.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+11190,
+10235,
+12025
+]
+},
+{
+"id": 10601,
+"name": "Boston Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-bos.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+11092,
+10112,
+12025
+]
+},
+{
+"id": 10556,
+"name": "Los Angeles Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-lad.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+11980,
+10020,
+12025
+]
+},
+{
+"id": 10511,
+"name": "New York Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball-nyy.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+10464,
+11143,
+10159,
+12025
+]
+},
+{
+"id": 10464,
+"name": "Live Baseball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/baseball.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+12025,
+9512,
+9975,
+10953
+]
+},
+{
+"id": 10421,
+"name": "Denver Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-den.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+12025,
+10388,
+10353
+]
+},
+{
+"id": 10388,
+"name": "Philadelphia Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-phi.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+10724,
+9595,
+12025
+]
+},
+{
+"id": 10353,
+"name": "San Antonio Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-sa.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+12025,
+10421,
+10388
+]
+},
+{
+"id": 10313,
+"name": "Dallas Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-dal.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+9513,
+12025,
+10421
+]
+},
+{
+"id": 10266,
+"name": "Miami Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-mia.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+11933,
+12025,
+10421
+]
+},
+{
+"id": 10235,
+"name": "Chicago Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-chi.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+11190,
+10638,
+12025
+]
+},
+{
+"id": 10159,
+"name": "New York Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-ny.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+11143,
+10511,
+12025
+]
+},
+{
+"id": 10112,
+"name": "Boston Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-bos.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+11092,
+10601,
+12025
+]
+},
+{
+"id": 10063,
+"name": "San Francisco Bay Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-gs.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+10863,
+9691,
+12025
+]
+},
+{
+"id": 10020,
+"name": "Los Angeles Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball-lal.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9975,
+11980,
+10556,
+12025
+]
+},
+{
+"id": 9975,
+"name": "Live Basketball Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/basketball.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+12025,
+9512,
+10464,
+10953
+]
+},
+{
+"id": 9928,
+"name": "Chicago Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-chi.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+11190,
+10638,
+12025
+]
+},
+{
+"id": 9877,
+"name": "Detroit Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-det.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+11237,
+12025,
+9928
+]
+},
+{
+"id": 9830,
+"name": "Buffalo Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-buf.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+12025,
+9928,
+9877
+]
+},
+{
+"id": 9783,
+"name": "New England Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-ne.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+11092,
+10601,
+12025
+]
+},
+{
+"id": 9734,
+"name": "Pittsburgh Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-pit.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+11322,
+12025,
+9928
+]
+},
+{
+"id": 9691,
+"name": "San Francisco Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-sf.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+10863,
+10063,
+12025
+]
+},
+{
+"id": 9642,
+"name": "Green Bay Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-gb.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+12025,
+9928,
+9877
+]
+},
+{
+"id": 9595,
+"name": "Philadelphia Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-phi.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+10724,
+10388,
+12025
+]
+},
+{
+"id": 9550,
+"name": "Kansas City Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-kc.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+12025,
+9928,
+9877
+]
+},
+{
+"id": 9513,
+"name": "Dallas Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football-dal.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+9512,
+10313,
+12025,
+9928
+]
+},
+{
+"id": 9512,
+"name": "Live Football Scoreboard Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/football.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/sportsmeter/\">Setup guide</a> &middot; <a href=\"/sports-meter-teams/\">Supported teams</a> &middot; <a href=\"/sports-meter/\">How Sports Meter works</a></p>",
+"upsells": [
+12025,
+9975,
+10464,
+10953
+]
+},
+{
+"id": 9375,
+"name": "OpenAI Codex Usage Meter Desk Display for ChatGPT",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/codemeter-codex.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/codemeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+7384,
+8631,
+8667,
+473
+]
+},
+{
+"id": 9196,
+"name": "Last.fm Scrobble Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-lastfm.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8503,
+8463
+]
+},
+{
+"id": 9122,
+"name": "YouTube Live Viewer Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-youtube_live.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8463,
+8502,
+9065
+]
+},
+{
+"id": 9065,
+"name": "Kick Viewer Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-kick.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8463,
+9122,
+8502
+]
+},
+{
+"id": 9064,
+"name": "Telegram Member Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-telegram.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8559,
+8595,
+8739
+]
+},
+{
+"id": 9159,
+"name": "Roblox Player Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-roblox.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8775,
+9307,
+8502
+]
+},
+{
+"id": 9270,
+"name": "Discourse Member Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-discourse.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8739,
+9064,
+8595
+]
+},
+{
+"id": 9233,
+"name": "Wikipedia Page View Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-wikipedia.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8631,
+8667,
+8703
+]
+},
+{
+"id": 9307,
+"name": "Minecraft Server Player Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-minecraft.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8775,
+9159,
+8502
+]
+},
+{
+"id": 9022,
+"name": "San Diego COASTER Live Train Tracker Map",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/coaster.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/coaster/\">Setup guide</a> &middot; <a href=\"/live-wall-maps/\">All live wall maps</a></p>",
+"upsells": [
+324,
+10912
+]
+},
+{
+"id": 8935,
+"name": "Social Media Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-general.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8463,
+8502,
+8559,
+8811
+]
+},
+{
+"id": 8811,
+"name": "Shopify Order Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-shopify.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8463,
+8631
+]
+},
+{
+"id": 8775,
+"name": "Steam Player Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-steam.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+9159,
+9307,
+8502
+]
+},
+{
+"id": 8739,
+"name": "Discord Member Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-discord.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+9270,
+9064,
+8595
+]
+},
+{
+"id": 8703,
+"name": "Docker Hub Pull Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-dockerhub.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8631,
+8667,
+9233
+]
+},
+{
+"id": 8667,
+"name": "npm Download Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-npm.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8631,
+8703,
+9233
+]
+},
+{
+"id": 8631,
+"name": "GitHub Follower Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-github.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8667,
+8703,
+9233
+]
+},
+{
+"id": 8595,
+"name": "Mastodon Follower Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-mastodon.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8559,
+9064,
+8739
+]
+},
+{
+"id": 8559,
+"name": "Bluesky Follower Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-bluesky.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8595,
+9064,
+8739
+]
+},
+{
+"id": 8503,
+"name": "Spotify Follower Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-spotify.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+9196,
+8463
+]
+},
+{
+"id": 8502,
+"name": "Twitch Viewer Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-twitch.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+8463,
+9122,
+9065
+]
+},
+{
+"id": 8463,
+"name": "YouTube Subscriber Counter Desk Display",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/social-youtube.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/socialmeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+8935,
+9122,
+8502,
+9065
+]
+},
+{
+"id": 7384,
+"name": "codeMeter \u2014 a desk display for your Claude Code usage",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/codemeter-claude.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/codemeter/\">Setup guide</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+9375,
+8631,
+8667,
+473
+]
+},
+{
+"id": 473,
+"name": "Stock & Crypto Price Display \u2013 Desk Gadget",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/ticker.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/supported-stock-crypto/\">Setup guide and supported coins</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+319,
+7384,
+8935
+]
+},
+{
+"id": 324,
+"name": "Mammoth Mountain Trail Map Live Lift Status Ski Map",
+"video": null,
+"links": "<p class=\"e3d-links\"><a href=\"/live-wall-maps/\">All live wall maps</a> &middot; <a href=\"/contact/\">Contact us for setup help</a></p>",
+"upsells": [
+9022,
+820
+]
+},
+{
+"id": 319,
+"name": "Crypto Display Coin Price Candlestick Monitor (Black USB-C)",
+"video": "https://bricekevin.github.io/spm-listing-img/video/store/ticker.mp4",
+"links": "<p class=\"e3d-links\"><a href=\"/supported-stock-crypto/\">Setup guide and supported coins</a> &middot; <a href=\"/desk-displays/\">All desk displays</a></p>",
+"upsells": [
+473,
+7384,
+8935
+]
+}
+]
